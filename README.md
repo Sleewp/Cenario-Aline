@@ -5,7 +5,7 @@
 <br>
 <h5>Passo 1: Colocamos um chão plano sem atributos.</h5>
 
-imagem
+ ![chao](/prints/1.png)
 
 <br>
 <h5>Passo 2: Adicionamos uma textura de nuvem.</h5>
