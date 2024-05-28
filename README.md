@@ -58,7 +58,7 @@ imagem
 imagem
 
 <br>
-<h5>Passo 12: Adicionamos ouro medieval disponívl na Asset Store.</h5>
+<h5>Passo 12: Adicionamos ouro medieval disponível na Asset Store.</h5>
 
 imagem
 
