@@ -90,4 +90,4 @@
 <br>
 <h4>Após isso, o resultado da cena foi esse:</h4>
 
-video
+![chao](/video/cena.mp4)
