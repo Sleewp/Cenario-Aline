@@ -50,7 +50,7 @@
 <br>
 <h5>Passo 9: Novamente, para remeter a riqueza do castelo, adicionamos a estátua do dragão de ouro do outro lado do castelo.</h5>
 
- ![chao](/prints/10.png)
+ ![chao](/prints/11.png)
 
 <br>
 <h5>Passo 10: Adicionamos uma estátua de uma criatura de ouro disponpível na Asset Store.</h5>
